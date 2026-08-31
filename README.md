@@ -4,6 +4,10 @@
 
 A premium, framework-free HTML template for a design studio. Built with semantic HTML5, CSS custom properties, and vanilla JavaScript. No dependencies, no build tools required.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Live Pages
 
 | Page | Description |
